@@ -1,6 +1,6 @@
 {
   "name": "algo",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A collection of classic alogrithms.",
   "main": "index.js",
   "scripts": {
